@@ -1,6 +1,6 @@
-# desing1
+# APP PETS INSPIRATION
 
-A new Flutter project.
+APLICACION INSPIRADA EN DISEÑO DE DIBBBLE
 
 ## Getting Started
 
